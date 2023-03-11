@@ -1,3 +1,3 @@
-# Lecture 1 - Topic
+# Lecture 1 - Topics
 
 ## Topic "Summary" or Brief "Definition"
