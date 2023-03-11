@@ -21,3 +21,17 @@ here's an example equation
 \ x^2/y = 1
 ```
 and here's the same equation in line $\ x^2/y = 1 $
+
+### Add some code (perhaps as an example or a problem for students to work through
+
+The following is a python example:
+
+```python
+x = 10
+y = 2
+z = x+y
+print(z)
+```
+### Add a link
+
+You can add a [link](https://www.natgeokids.com/uk/discover/animals/general-animals/ten-panda-facts/) to other material for students to read or watch
